@@ -1,7 +1,5 @@
 # ExploraML
 
-[[src/model comparison.webp]]
-
 ### Machine Learning Members
 | Name  | Bangkit ID | Github Profile |
 | :---: | :---: | ------------- |
