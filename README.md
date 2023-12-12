@@ -1,5 +1,7 @@
 # ExploraML
 
+![The-architecture-of-EfficientNetB0-CNN-EfficientNetB0-uses-slightly-larger-mobile](https://github.com/Explora-App/ExploraML/assets/64643677/d9189226-e162-4033-9d16-293fde9d7ca3)
+
 ### Machine Learning Members
 | Name  | Bangkit ID | Github Profile |
 | :---: | :---: | ------------- |
