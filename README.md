@@ -9,5 +9,5 @@
 | Name  | Bangkit ID | Github Profile |
 | :---: | :---: | ------------- |
 | **Ahmad Rafianto**  | M010BSY1438   | [Github Profile](https://github.com/arafianto)  |
-| **Muhammad Fauzi**  | M325BSY1522    |   |
+| **Muhammad Fauzi**  | M325BSY1522    | [Github Profile](https://github.com/ImmanuelAnthony)  |
 | **Immanuel Anthony Irawan**  | M232BSY1273   |   |
